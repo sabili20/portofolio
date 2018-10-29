@@ -1,3 +1,1 @@
-<?php
-header('location:utama.html')
-?>
+"hello world" 
