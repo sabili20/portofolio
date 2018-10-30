@@ -1,5 +1,5 @@
 <?php
 
-location('utama.html');
+header('utama.html');
 
 ?>
