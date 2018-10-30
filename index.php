@@ -1,1 +1,5 @@
-"hello world" 
+<?php
+
+location('utama.html');
+
+?>
